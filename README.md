@@ -1,0 +1,1 @@
+AI Desktop Assistant — A voice-based AI assistant that understands natural-language commands and can interact with your laptop, including opening applications and files, sending WhatsApp messages, and remembering frequently used paths, applications, and contacts.
